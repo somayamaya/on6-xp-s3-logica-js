@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r   <br>\r   <img src=\"assets/web-development.png\" alt=\"Front-End Checklist\" width=\"170\">\r   <br>\r     <br>\r         Semana 3\r   <br>\r </h1>\r <p align=\"center\">Resolução de Problemas/Lógica aplicada e JavaScript<p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somayamaya/on6-xp-s3-logica-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somayamaya/on6-xp-s3-logica-js/issues"
+  },
+  "homepage": "https://github.com/somayamaya/on6-xp-s3-logica-js#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
